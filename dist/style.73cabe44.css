@@ -1,0 +1,19 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  min-width: 320px;
+  overflow: hidden;
+  background: blue;
+}
+
+h1 {
+  color: orange;
+}
+
+/*# sourceMappingURL=/style.73cabe44.css.map */
