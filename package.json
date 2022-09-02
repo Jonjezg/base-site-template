@@ -16,7 +16,8 @@
     "sass-watch": "0.1.0"
   },
   "devDependencies": {
-    "@babel/core": "7.2.0"
+    "@babel/core": "7.2.0",
+    "sass": "^1.54.8"
   },
   "resolutions": {
     "@babel/preset-env": "7.13.8"

@@ -12,19 +12,9 @@ html {
 body {
   min-width: 320px;
   overflow: hidden;
-  background:red;
+  background:blue; 
 }
 
 h1 {
-  color: green;
-}
-
-.btn {
-  background-color: green;
-  color: white;
-  font-size: 18px;
-  padding: 5px;
-  &:hover {
-    color:red
-  }
+  color: orange;
 }
