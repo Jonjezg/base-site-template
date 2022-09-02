@@ -1,0 +1,30 @@
+@import 'vars';
+@import 'fonts';
+
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  min-width: 320px;
+  overflow: hidden;
+  background:red;
+}
+
+h1 {
+  color: green;
+}
+
+.btn {
+  background-color: green;
+  color: white;
+  font-size: 18px;
+  padding: 5px;
+  &:hover {
+    color:red
+  }
+}
